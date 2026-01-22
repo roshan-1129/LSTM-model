@@ -3,6 +3,7 @@ pandas
 numpy
 scikit-learn
 matplotlib
-streamlit
+streamlit==1.53.0
 scikeras
 nltk
+
